@@ -1,5 +1,5 @@
 import pandas as pd
-<<<<<<< HEAD
+
 
 mydatafram = {
     'cars': ['BMW','marcidise','tyota'],
