@@ -16,6 +16,10 @@ POWer SHell :
 ` .\myenv\Scripts\Activate.ps1
 `
 
+`
+myenv\Scripts\activate.bat
+`
+
 
 2- install pandas Library.
 `
