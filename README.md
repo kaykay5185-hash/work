@@ -16,6 +16,10 @@ POWer SHell :
 `  venv\Scripts\activate
 `
 
+`
+myenv\Scripts\activate.bat
+`
+
 
 2- install pandas Library.
 `
