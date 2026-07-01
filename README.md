@@ -12,6 +12,10 @@ call it myenv / env/ venv ..
  `
    source myenv/bin/activate
 `
+POWer SHell : 
+` .\myenv\Scripts\Activate.ps1
+`
+
 
 2- install pandas Library.
 `
